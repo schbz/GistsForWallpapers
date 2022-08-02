@@ -24,6 +24,7 @@ This collection is presented in the form of a Github repo to make it easier for 
 | Git Commands              | [9c84a18384934775b14c835e8b9d9543](https://gist.github.com/schbz/9c84a18384934775b14c835e8b9d9543) | Schbz       |
 | Calendar Cheat Sheets     | [759560893a913c8a6c6160ffa109cbf2](https://gist.github.com/schbz/759560893a913c8a6c6160ffa109cbf2) | Schbz       |
 | Icon Organizer Templates  | [31429a4f0a5606d282da5d00d7d30283](https://gist.github.com/schbz/31429a4f0a5606d282da5d00d7d30283) | Schbz       |
+| Markdown Cheat Sheet      | [e9581611cb06035a7fbcf377b669adf7](https://gist.github.com/schbz/e9581611cb06035a7fbcf377b669adf7) | Schbz       |
 
 ---
 
