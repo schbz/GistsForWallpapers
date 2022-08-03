@@ -1,0 +1,9 @@
+      Windows Network Commands
+ARP - Display table of IP addresses and their physical addresses
+GETMAC - Displays MAC address of network adapter
+IPCONFIG - Displays network interfaces info
+NETSH – Opens network settings 
+NSLOOKUP - Displays IP address by resource name
+PING – Checks host availability
+ROUTE - Displays network route tables
+TRACERT - Displays the route of packets traveling over network

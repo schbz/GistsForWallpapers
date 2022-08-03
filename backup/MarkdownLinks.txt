@@ -1,0 +1,5 @@
+Hyperlinks
+[alt text](https://exampleURL.com)
+http://URLsGetAutoLinked.com
+`http://DisableLinkWith.CodeBackticks`
+[Link to Heading](#heading-id)

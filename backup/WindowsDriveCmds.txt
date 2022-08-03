@@ -1,0 +1,10 @@
+          Windows Disk Commands
+CHKDISK - Checks condition of a disk
+COMPACT - Displays compression of NTFS partitions
+CONVERT - Converts FAT to NTFS
+DISKPART - Displays and changes disk partition properties
+FORMAT - Formats the disk
+FSUTIL - Displays and configures file system properties
+LABEL - Creates, changes, or deletes a disk volume label
+RECOVER - Recover a damaged disk
+VOL - Displays volume and serial number for disk 

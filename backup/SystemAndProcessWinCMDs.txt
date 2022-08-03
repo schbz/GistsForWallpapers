@@ -1,0 +1,13 @@
+         Windows System and Process Commands
+SCHTASKS - Task Scheduler
+DATE - Displays or set current date
+DRIVERQUERY - Displays device driver Status
+GPRESULT – Displays  group policies
+GPUPDATE – Updates group policies
+HOSTNAME - Displays name of the computer
+REG – Registry editor
+SYSTEMINFO - Shows configuration information
+TASKKILL - Stops a task by PID
+TASKLIST - Lists current tasks
+TIME - Displays or sets the system time
+VER - Displays Windows version

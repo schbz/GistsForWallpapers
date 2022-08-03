@@ -1,0 +1,30 @@
+Linux File Commands
+ls ----List CWD(current working directory)
+ls -la  -----Detailed list CWD + hidden
+cd <dir> ----Change CWD to <dir>
+pwd ----Display CWD
+mkdir <dir>  ----Create new directory <dir>
+rm <file> ----Delete <file>
+rm -r <dir> ----Delete directory <dir>
+rm -f <file> ----Force delete <file>
+rm -rf <dir> ----Force delete directory
+cp <fileA> <fileB> ----Copy file A to file B 
+mv <fileA> <fileB> ----Rename file A to file B 
+touch <file> ----Create or update <file>
+cat <file> ----Display contents of <file>
+cat > <file> ----Route standard output to <file>
+look <string> <file> ----Display lines beginning with <string>
+head <file> ----Display first 10 lines of <file>
+tail <file> ----Display last 10 lines of <file>
+tail -f <file> ----Display contents of <file> in realtime
+diff <fileA> <fileB> ----Display difference between two files
+grep ----Search file(s) for lines that match pattern
+rcp ----Copy files between two machines
+rsync ----Remote file copy
+alias ----Create an alias to a file
+unalias ----Remove an alias
+ln ----Create symbolic link to a file
+chmod <octal> <file> ----Change permissions for <file>
+chgrp ----Change group ownership
+chown ----Change file owner and group
+locate <file> ----Find all instances of <file>

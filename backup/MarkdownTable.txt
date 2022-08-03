@@ -1,0 +1,9 @@
+| Column Header   | Header | Header |
+|---------------|----------|--------|
+| Row Name      | 3.3       | 5      |
+| Row Name      | 4         | 8      |
+For centered cell text :-----:
+Left aligned   :----
+Right aligned   ----:
+Header cells need >= 3 dashes
+Outer pipes are optional

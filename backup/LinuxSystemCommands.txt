@@ -1,0 +1,21 @@
+Linux System Commands
+sudo <command> ----Execute <command> as superuser
+su ----Open root shell
+sudo !! ----Execute last command as superuser
+history ----Display command history
+exit ----Log out of session
+ps ----Display active processes 
+ps aux ----Detailed active processes
+kill <pid> ----End process by process ID
+killall <proc> End all processes with name <proc>
+date ----Display system date & time
+uptime ----Diplay time since last boot
+w ----Display list of active users
+df ----Display disk usage
+du ----Display directory space usage
+free ----Display memory/swap usage
+whereis <program>  ----Display allocation for <program>
+which <program> ----Display default version of <program>
+groupadd ----Add user security group
+groupmod ----Modify security group
+groups ----Display group names of a user

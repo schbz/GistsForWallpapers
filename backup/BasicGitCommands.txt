@@ -1,0 +1,20 @@
+          Basic Git Commands 
+git init ----Create a new local repository
+git init <RepoName>  ----Create a new named repo
+git add <FileName> ----Add a particular file to staging area
+git add * ----Add all files in directory to staging area
+git commit -m "<message>" ----Create a new commit
+git status ----List recent changes
+git push origin <BranchName> ----Push local commits to remote
+git checkout -b <NewBranchName> ----Create new branch
+git checkout <BranchName>  ----Switch to branch
+git branch  ----List all branches
+git branch -d <BranchName> ----Delete a branch
+git remote add origin <URL> ----Connect local repo to remote
+git remote rm <RemoteRepoName> ----Remove connection to a remote repo
+git remote -v ----List all remote repos
+git pull ----Merge remote changes to local repo
+git merge <BranchName> ----Merge another branch into current branch
+git fetch origin ----Copy all files from remote to local
+
+

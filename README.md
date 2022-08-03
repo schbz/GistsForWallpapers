@@ -28,6 +28,12 @@ This collection is presented in the form of a Github repo to make it easier for 
 
 ---
 
+to download all the gists, run:
+
+```(bash)
+python backup.py
+```
+
 ## Ideas for future pasting gists
 
 - Package manager command cheat sheets (chocolatey, npm, yarn, etc.)

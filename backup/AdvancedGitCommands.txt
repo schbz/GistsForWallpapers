@@ -1,0 +1,10 @@
+           Advanced Git Commands
+git log  ----Show repo commit history
+git diff ----List current conflicts
+git diff --base <File> ----List conflicts with base file
+git diff <Source> <Target> ----List conflicts between branches pre-merge
+git reset --hard HEAD ----Reset directory state to last commit
+git rm <File> ----Remove file from index
+git stash ----Save current changes and restore last commit
+git rebase <BranchName> ----Selectively apply changes between branches
+git tag <CommitID>  ----Label specific commit

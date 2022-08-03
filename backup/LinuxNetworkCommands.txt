@@ -1,0 +1,15 @@
+Network Commands
+ping <host> ----Test connection to <host>
+dig <domain> ----Display DNS for <domain>
+dig -x <host> ---Reverse lookup of <host>
+traceroute <host> ----Display gateway path to host
+netstat ----Dislay current network connections
+nslookup ----Query name servers
+ifconfig ----Display active network interfaces
+ifdown ----Stop a network interface
+ifup ----Start a network interface
+ip ----Display routing, devices, and tunnels
+ethtools ----Configure ethernet cards
+wget <file> ----Download <file>
+wget -r <url> ----Download recursively from <url>
+ssh <user>@<host> ----connect to <host> as <user>

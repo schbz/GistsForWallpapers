@@ -1,0 +1,18 @@
+           Windows Files and Directory Commands
+CD - Changes directory
+COPY - Copies files to another location
+DEL - Deletes files
+DIR – Displays files and folders in current directory
+EDIT - Starts file editor
+FC - Shows differences between files
+FIND - Searches for a text string in a file
+MD - Creates a folder
+MOVE - Moves files from one folder to another
+OPENFILES – Manages opened local or network files
+PRINT - Prints out text file contents
+RMDIR or RM - Deletes a folder
+RENAME or REN - Renames a file or folder
+REPLACE - Replaces files in one directory with files of the same name in another
+ROBOCOPY - Advanced copy files and directories
+TREE - Displays directory structure of a disk or folder
+XCOPY - Copies files and directory trees

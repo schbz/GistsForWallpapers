@@ -1,0 +1,21 @@
+US Holidays
+MLK Jr. Day ----3rd Monday of January
+Groundhog Day ----February 2
+Presidents' Day ----3rd Monday of February
+Valentine's Day ----February 14
+St. Patrick's Day ----March 17
+Easter ----1st Sunday after March 21
+April Fools' Day ----April 1
+Cinco de Mayo ----May 5
+Mother's Day ----2nd Monday in May
+Flag Day ----June 14
+Father's Day ----3rd Sunday in June
+Independence Day ----July 4
+Labor Day ----1st Monday of September
+Haloween ----October 31
+Thanksgiving ----4th Thursday of November
+Black Friday ----1st day after Thanksgiving
+Christmas Eve ----December 24
+Christmas Day ----December 25
+New Years Eve ----Dec 31
+New Years Day ----Jan 1

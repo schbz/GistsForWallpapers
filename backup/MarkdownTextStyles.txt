@@ -1,0 +1,10 @@
+Text Styles
+*Italic text*
+**Bold text**
+***Bold Italic***
+~~Strikethrough~~
+`Code`
+> Blockquote
+==Highlighted==
+CO~2~ (Subscript)
+E=MC^2^ (Superscript)

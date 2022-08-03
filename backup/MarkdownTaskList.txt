@@ -1,0 +1,4 @@
+Checklist
+- [ ] unchecked item
+- [ ] second unchecked
+- [x] checked item

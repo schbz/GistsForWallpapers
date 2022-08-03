@@ -1,0 +1,9 @@
+File Permissions Octals
+Order: owner/group/world
+1 - eXectue (x)
+2 - Write (w)
+3 - wx
+4 - Read (r)
+5 - rx
+6 - rw
+7 - rwx

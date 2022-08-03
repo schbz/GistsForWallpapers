@@ -1,0 +1,3 @@
+FootNotes[^1] can be[^name]
+[^1]: can be numbers
+[^name]: or words
