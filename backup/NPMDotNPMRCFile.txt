@@ -1,0 +1,8 @@
+       .npmrc Files
+# comment lines start with # or ;
+# project specific config: /path/to/project/.npmrc
+# user specific config: ~/.npmrc
+# global config: $PREFIX/etc/npmrc
+# npm built-in config: /path/to/npm/npmrc
+prefix = ${HOME}/.npm-packages
+key = "value"

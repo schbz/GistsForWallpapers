@@ -1,0 +1,11 @@
+     NPM Advanced Commands
+Run diagnostic: npm doctor
+Create[use] local link: npm link [<package>]
+Publish: npm publish 
+Unpublish: npm unpublish <package@version>
+Deprecate version: npm deprecate <package@version>
+Compress package: npm pack
+Lock dependencies for publish: npm shrinkwrap
+Open registry webpage: npm repo <package>
+Start clean slate package: npm ci
+Increment version: npm version <patch/minor/major>

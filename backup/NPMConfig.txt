@@ -1,0 +1,9 @@
+     NPM Config Commands
+Update NPM:  npm install -g npm 
+Show NPM version: npm -v
+Show settings: npm config list
+Get setting: npm config get <setting>
+Set setting: npm config set <name="value">
+Delete setting: npm config delete "<setting>"
+Show default values: npm config ls -l
+Show root folder: npm root [-g]

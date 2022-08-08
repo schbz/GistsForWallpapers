@@ -1,0 +1,12 @@
+        NPM Basic Commands
+New Package: npm init [-y]
+Install dependencies:  npm i [--production]
+Add dependency:  npm i <package@version> 
+Install globally: npm i -g <package>
+Add dev dep: npm i -d <package>
+Remove package: npm un [-g] <package> 
+List installed: npm ls [-g] [0]
+Update package[s]: npm up [<package>]
+Show[fix] vulnerabilities: npm audit [fix]
+Check Cache: npm cache verify
+Clean cache: npm cache clean -f

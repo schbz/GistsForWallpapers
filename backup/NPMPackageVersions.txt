@@ -1,0 +1,13 @@
+     Package.json Version Syntax
+"exact-version" : "1.23.45",
+"latest-patch-update" : "~1.23.45",
+"same-as-above": "1.23.x",
+"latest-minor-update" : "^1.23.45",
+"same-as-above": "1.x",
+"version-range" : "1.43.5 - 1.7.0",
+"first-or-range" : "1.0.0 || >=1.2.0 < 1.4.0",
+"any-version" : "*",
+"latest-version" : "latest",
+"local-file" : "file:~/foo/bar",
+"remote" : "git+https://site.com/npm/cli.git#v1.23",
+"github" : "user/repo#feature\/branch"
