@@ -13,8 +13,8 @@ def backup():
             if "[" in line:
                 gist_ids.append(line.split("[")[1].split("]")[0])
     
-    #remove the links
-    gist_ids = gist_ids[2:]
+    #remove the link
+    gist_ids = gist_ids[1:]
     print("downloading: ", gist_ids)
     
     #create a directory called 'backup' if it doesn't already exist
