@@ -1,0 +1,3 @@
+h$[foo=bar$]{Title $$}*2
+<h1 foo="bar1">Title 01</h1>
+<h2 foo="bar2">Title 02</h2>

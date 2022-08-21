@@ -1,0 +1,7 @@
+nav>div>p^a>em
+<nav>
+    <div>
+        <p></p>
+    </div>
+    <a href=""><em></em></a>
+</nav>

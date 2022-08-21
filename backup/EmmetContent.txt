@@ -1,0 +1,11 @@
+ul>li*2>a[href=go$]{foo$$$}+{$$bar}*2
+<ul>
+    <li><a href="go1">foo001</a>
+        01bar
+        02bar
+    </li>
+    <li><a href="go2">foo002</a>
+        01bar
+        02bar
+    </li>
+</ul>

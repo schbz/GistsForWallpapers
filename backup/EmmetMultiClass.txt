@@ -1,0 +1,9 @@
+table>.row.outer.foo>.col.inner>h$.bar$*2
+<table>
+    <tr class="row outer foo">
+        <td class="col inner">
+            <h1 class="bar1"></h1>
+            <h2 class="bar2"></h2>
+        </td>
+    </tr>
+</table>

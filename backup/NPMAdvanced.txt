@@ -8,4 +8,4 @@ Compress package: npm pack
 Lock dependencies for publish: npm shrinkwrap
 Open registry webpage: npm repo <package>
 Start clean slate package: npm ci
-Increment version: npm version <patch/minor/major>
+Bump version +git tag: npm version <patch/minor/major>

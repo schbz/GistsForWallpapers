@@ -1,0 +1,6 @@
+ul>li*3
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>

@@ -1,0 +1,10 @@
+header>(ul>li>a.$*2)+nav+footer
+<header>
+    <ul>
+        <li><a href="" class="1"></a>
+            <a href="" class="2"></a>
+        </li>
+    </ul>
+    <nav></nav>
+    <footer></footer>
+</header>
