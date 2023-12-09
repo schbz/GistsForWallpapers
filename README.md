@@ -4,14 +4,9 @@
 
 ## About
 
-This is simply a list of gists to be made available for use on [FreeWallpaperMaker.com](https://freewallpapermaker.com/).
+This is simply a list of gists that was available on the first version of on [FreeWallpaperMaker.com](https://freewallpapermaker.com/).
 
-My main reasons for creating _Free Wallpaper Maker_ are:
-
-1. To make it a bit easier to create custom wallpapers that are more functional than the the standard generic picture
-2. I wanted something to use gists for
-
-This collection is presented in the form of a Github repo to make it easier for anyone to suggest changes or contribute their own gists.
+The collection is presented in the form of a Github repo to make it easier for anyone to suggest changes or contribute their own gists.
 
 ---
 
